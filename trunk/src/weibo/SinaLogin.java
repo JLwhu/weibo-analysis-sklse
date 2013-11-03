@@ -53,7 +53,7 @@ public class SinaLogin {
 	
 //	public static List<Cookie> cookies;
 //	public static CookieStore cs;
-
+//	test
 	public static List<Status> getWeibo(List<WeiboIDs> weiboID) throws WeiboException {
 		
 		String access_token = "2.00dDNtkB57L85E3c98a7914aTzxrlC";
